@@ -1,6 +1,6 @@
 # Projeto3
 
-# Projeto 3 - Fecapolis
+## Projeto 3 - Fecapolis
 
 Fecapolis é um jogo educacional em estilo tabuleiro com minigames de perguntas e respostas, focado em ensinar sustentabilidade (economia de água e energia). A cada turno, um dos personagens é selecionado aleatoriamente para sortear quantos degraus ela irá subir, e em cada degrau existe uma pergunta com um nível de dificuldade diferente.
 
