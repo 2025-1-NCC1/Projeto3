@@ -4,6 +4,7 @@
 
 Fecapolis é um jogo educacional em estilo tabuleiro com minigames de perguntas e respostas, focado em ensinar sustentabilidade (economia de água e energia). A cada turno, um dos personagens é selecionado aleatoriamente para sortear quantos degraus ela irá subir, e em cada degrau existe uma pergunta com um nível de dificuldade diferente.
 
+
 ## Como Funciona
 
 1.  Ao iniciar o jogo, o script `StepByStepClimber` em cada personagem encontrará todos os degraus filhos e os ordenará pela sua altura.
@@ -15,4 +16,4 @@ Fecapolis é um jogo educacional em estilo tabuleiro com minigames de perguntas 
     * O número sorteado é exibido no Console da Unity.
     * O script `StepByStepClimber` da cápsula sorteada inicia o movimento da cápsula para subir o número de degraus sorteado.
     * O turno é então passado para a outra cápsula.
-
+    
