@@ -43,6 +43,7 @@ suas contribuições para o controle da água e da energia, além de claro, favo
   &emsp;|Ética Computacional.pdf<br>
 |-->imagens<br>
 &emsp;|Bootstrap_5.0_Screenshot.png<br>
+&emsp;|Escadaria.png<br>
 |-->src<br>
   &emsp;|-->Backend<br>
   &emsp;|-->Frontend<br>
