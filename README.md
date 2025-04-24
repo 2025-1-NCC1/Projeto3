@@ -88,3 +88,4 @@ Aqui estão as referências usadas no projeto.
 2. <https://learn.unity.com/>
 3. <https://www.youtube.com/watch?v=v1-mSiT32Mk&t=623s>
 4. <https://www.reddit.com/r/gamedev/>
+5. <https://www.toptal.com/developers/gitignore/api>
