@@ -36,13 +36,13 @@ suas contribuições para o controle da água e da energia, além de claro, favo
 -Raiz<br>
 |<br>
 |-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
+  &emsp;|-->Entrega 1<br>
+  &emsp;|Algoritmos e Lógica de Programação.docx<br>
+  &emsp;|Cálculo.pdf<br>
+  &emsp;|Projeto Interdisciplinar.docx<br>
+  &emsp;|Ética Computacional.pdf<br>
 |-->imagens<br>
+&emsp;|Bootstrap_5.0_Screenshot.png<br>
 |-->src<br>
   &emsp;|-->Backend<br>
   &emsp;|-->Frontend<br>
