@@ -21,13 +21,14 @@
 [<a href='https://postimg.cc/DWGqVYKy' target='_blank'><img src='https://i.postimg.cc/DWGqVYKy/Interface-do-jogo.png' border='0' alt='Interface-do-jogo'/></a>
 ](https://postimg.cc/DWGqVYKy)
 
-Nosso projeto se baseia em um jogo de tabuleiro. No entanto, com um diferencial,
-ao invés de ser um quadrado, será escadas, escadas essas que serão
-vinculadas com diversas perguntas, proporcionando, um conhecimento mutuo para os playes em partida e,
-conscientizando sobre o uso da água e energia.
+Apresentamos a todos aqueles entusiastas de jogos de tabuleiro, a Fecapolis, e como o próprio termo antecessor ressalta, um jogo de tabuleiro. Porém, ao invés
+de se basear em tabuleiros clássicos, com quadrado e casas a serem avançadas, a Fecapolis tem seu próprio caminho que é um dos grandes diferenciais, os jogadores
+terão que percorrer uma escada e, como consequência, serão submetidos à uma série de perguntas para testarem seus conhecimentos sobre o controle, os gastos e o
+manuseio da água e da energia, arrecando pontos de "energia", ao final, veremos o destaque, com a maior pontuação de energia.
 
-Ademais, por meio desse projeto, deve-se nortear as pessoas para o melhor uso de seus bens naturais.
-Portanto, cabe ao o Know sobre as práticas e e sobresair no jogo pelo conhecimento facilitado
+Ademais, por meio desse projeto, estimularemos a busca por conhecimentos desses recursos, proporcionando em paralelo, o conhecimento e a diversão por parte
+dos jogadores. O jogo possui um intuito educacional e influenciador, norteando suas perguntas para um tipico pensamento reflexivo, ruminando o jogador a revisar
+suas contribuições para o controle da água e da energia, além de claro, favorecer ele mesmo, já que ele saíra com um conhecimento de economia maior.
 
 
 ## 🛠 Estrutura de pastas
