@@ -8,7 +8,7 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# FECAPOLIS
+# SMARTQUIZ
 
 ## PEYM
 
@@ -21,8 +21,8 @@
 [<a href='https://postimg.cc/DWGqVYKy' target='_blank'><img src='https://i.postimg.cc/DWGqVYKy/Interface-do-jogo.png' border='0' alt='Interface-do-jogo'/></a>
 ](https://postimg.cc/DWGqVYKy)
 
-Apresentamos a todos aqueles entusiastas de jogos de tabuleiro, a Fecapolis, e como o próprio termo antecessor ressalta, um jogo de tabuleiro. Porém, ao invés
-de se basear em tabuleiros clássicos, com quadrado e casas a serem avançadas, a Fecapolis tem seu próprio caminho que é um dos grandes diferenciais, os jogadores
+Apresentamos a todos aqueles entusiastas de jogos de tabuleiro, a SmartQuiz, e como o próprio termo antecessor ressalta, um jogo de tabuleiro. Porém, ao invés
+de se basear em tabuleiros clássicos, com quadrado e casas a serem avançadas, a SmartQuiz tem seu próprio caminho que é um dos grandes diferenciais, os jogadores
 terão que percorrer uma escada e, como consequência, serão submetidos à uma série de perguntas para testarem seus conhecimentos sobre o controle, os gastos e o
 manuseio da água e da energia, arrecando pontos de "energia", ao final, veremos o destaque, com a maior pontuação de energia.
 
@@ -44,6 +44,8 @@ suas contribuições para o controle da água e da energia, além de claro, favo
 |-->imagens<br>
 &emsp;|Bootstrap_5.0_Screenshot.png<br>
 &emsp;|Escadaria.png<br>
+&emsp;|LOGO.png<br>
+
 |-->src<br>
   &emsp;|-->Backend<br>
   &emsp;|-->Frontend<br>
