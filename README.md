@@ -44,7 +44,7 @@ suas contribuições para o controle da água e da energia, além de claro, favo
 
 |-->src<br>
   &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
+  
 |readme.md<br>
 
 ## 🛠 Instalação
@@ -73,10 +73,11 @@ em paralelo, deverá ter em sistema o programa Visual Studio Code para que os c�
 citada, abrir em um pasta local e selecionar Scenes para inicar o jogo
 
 -<a href= "https://unity.com/download">UNITY 3D</a>
-```
+
 
 ## 📋 Licença/License
-Utilize o link <https://support.unity.com/hc/en-us/categories/201268913-Licenses> para fazer uma licença para a utilização do programa.
+
+Utilize o link <a href="https://github.com/2025-1-NCC1/Projeto3.git">SmartQuiz</a> © 2789 by <a href="https://github.com/yursx https://github.com/EndrewFMA  https://github.com/MauSuster">YURI, MAURICIO, ENDREW</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"> para fazer uma licença para a utilização do programa.
 
 ## 🎓 Referências
 
