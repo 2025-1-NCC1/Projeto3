@@ -9,14 +9,13 @@
 
 ## PEYM
 
-## Integrantes: <a href="https://github.com/yursx">YURI OLIVEIRA SANTANA</a>, <a href="https://github.com/EndrewFMA">ENDREW DOS SANTOS NASCIMENTO</a>, <a href="https://github.com/MauSuster">MAURICIO SUSTER FALCAO AURELIANO DOS SANTOS</a>
+## Integrantes: <a href="https://github.com/yursx">Yuri Oliveira Santanas</a>, <a href="https://github.com/EndrewFMA">Endrew dos Santos Nascimento</a>, <a href="https://github.com/MauSuster">Mauricio Suster Falcao Aureliano dos Santos</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander</a>, <a href="https://www.linkedin.com/in/lucymari/">Lucy Mari Tabuti</a>, <a href="https://www.linkedin.com/in/gillespleite">Gilles Pedroza Leite</a>, <a href="https://www.linkedin.com/in/franciscoescobar">Francisco de Souza Escobar</a>, <a href="https://www.linkedin.com/in/remuniz">Renata Muniz do Nascimento</a>
 
-## Suba os degraus do conhecimento em um jogo educativo e interativo que mistura diversão com conscientização sobre o uso da água e da energia. Inspirado no formato de escada, os jogadores avançam por casas com desafios, perguntas e situações do dia a dia, ganhando recompensas ou enfrentando punições conforme suas escolhas e respostas. Dessa forma, construimos o aprendizado através do entretenimento proporcionado pelo jogo
+## DESCRIÇÃO
 
-[<a href='https://postimg.cc/DWGqVYKy' target='_blank'><img src='https://i.postimg.cc/DWGqVYKy/Interface-do-jogo.png' border='0' alt='Interface-do-jogo'/></a>
-](https://postimg.cc/DWGqVYKy)
+<img imagens="https://github.com/2025-1-NCC1/Projeto3/blob/main/imagens/LOGO%20-%20SmartQuiz.png" border = "0"> 
 
 Apresentamos a todos aqueles entusiastas de jogos de tabuleiro, a SmartQuiz, e como o próprio termo antecessor ressalta, um jogo de tabuleiro. Porém, ao invés
 de se basear em tabuleiros clássicos, com quadrado e casas a serem avançadas, a SmartQuiz tem seu próprio caminho que é um dos grandes diferenciais, os jogadores
