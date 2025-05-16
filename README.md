@@ -15,7 +15,7 @@
 
 ## DESCRIÇÃO
 
-<img imagens="https://github.com/2025-1-NCC1/Projeto3/blob/main/imagens/LOGO%20-%20SmartQuiz.png" border = "0"> 
+<embed src="https://github.com/2025-1-NCC1/Projeto3/raw/main/imagens/LOGO%20-%20SmartQuiz.pdf" width="600" height="800" type="application/pdf"> 
 
 Apresentamos a todos aqueles entusiastas de jogos de tabuleiro, a SmartQuiz, e como o próprio termo antecessor ressalta, um jogo de tabuleiro. Porém, ao invés
 de se basear em tabuleiros clássicos, com quadrado e casas a serem avançadas, a SmartQuiz tem seu próprio caminho que é um dos grandes diferenciais, os jogadores
