@@ -16,7 +16,7 @@
 ## DESCRIÇÃO
 
 <p align="center">
-  <img src="https://github.com/2025-1-NCC1/Projeto3/blob/main/imagens/LOGO%20-%20SmartQuiz.pdf" alt="LOGO" border="0">
+  <img src="https://github.com/2025-1-NCC1/Projeto3/blob/main/imagens/LOGO%20-%20SmartQuiz_page-0001.jpg" alt="LOGO" border="0">
 
   
 Apresentamos a todos aqueles entusiastas de jogos de tabuleiro, a SmartQuiz, e como o próprio termo antecessor ressalta, um jogo de tabuleiro. Porém, ao invés
