@@ -60,21 +60,29 @@ Baixe em outro sistema.
 <b>Windows:</b>
 
 
-Faça o download no site da Unity, utilizando a versão compatível com o jogo, 6000.0.38f1..
+Não há instalação!
+Encontre a executável do jogo em https://itch.io, pesquise por Endrew dos Santos, abra o repositório do perfil e faça o dowload da pasta e execute o jogo
+
 
 
 <b>HTML:</b>
 
 Não há instalação!
-Encontre o site do programa Unity, e faça o dowload compatível
+Encontre a executável do jogo em https://itch.io, pesquise por Endrew dos Santos, abra o repositório do perfil e clique na URL, para jogar
+
 
 ## 💻 Configuração para Desenvolvimento
 
 Para a instalação do jogo, deverá ter como requisito o dowload do programa https://unity.com/download, na versão 6000.0.38f1. .
-em paralelo, deverá ter em sistema o programa Visual Studio Code para que os códigos sejam executados. Em sequência, instalar o jogo na versão
-citada, abrir em um pasta local e selecionar Scenes para inicar o jogo
+em paralelo, deverá ter em sistema o programa Visual Studio Code para que os códigos sejam executados. Para isso, deve-se abrir seu navegador,
+digite o seguinte link https://unity.com/download, instale o Unity. Após a instalação, abra o Unity, vá em Installs, no canto esquerdo de sua tela, clique em 
+Install Editor e selecione a versão 6000.0.38f), desta forma, estará usando a versão compatível com a do jogo. Por fim, abra em seu navegador o 
+https://github.com/2025-1-NCC1/Projeto3?tab=readme-ov-file e execute o seguinte caminho: src > Entrega 2 > Backend e faça o dowload da pasta SmartQuiz.
+E por fim, extraia essa pasta em um local de sua prefêrencia no computador, volte para o Unity na versão instala, selecione Add > Add project from disk, 
+selecione a pasta instalada, no local que você armazenou e abra no unity. Com esses passos, o jogo abrirá para desenvolvimento no Unity 3d, versão 6000.0.38f
 
--<a href= "https://unity.com/download">UNITY 3D</a>
+
+
 
 
 ## 📋 Licença/License
